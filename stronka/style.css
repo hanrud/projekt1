@@ -1,0 +1,53 @@
+.jumbotron {
+  padding: 100px;
+}
+
+.jumbotron p, .jumbotron button {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#myCarousel img {
+  width: 100%;
+}
+
+#bestpl img {
+  width: 100%;
+  /*border: 8px solid transparent;*/
+}
+
+#bestpl img:hover {
+  border: 8px solid  #f1f1f1;
+}
+
+form {
+  padding: 100px;
+
+}
+
+.form-group {
+  padding: 20px;
+}
+
+.form-inline button {
+  margin: 20px;
+}
+
+.table {
+  padding: 50px 250px;
+}
+
+footer {
+  padding: 25px;
+  background-color: #EEEEEE;
+  margin-top: 50px;
+
+}
+
+#bestpl {
+  padding: 50px 0;
+}
+
+#bestpl .row {
+  padding: 50px 0 0;
+}
